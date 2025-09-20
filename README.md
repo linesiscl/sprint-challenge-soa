@@ -11,6 +11,12 @@
 ---
 ## Descrição do Projeto
 
+Este projeto é uma aplicação Java 17 desenvolvida com Spring Boot 3 e gerenciada pelo Maven, que implementa um sistema de cadastro de clientes e funcionários, além da emissão e gerenciamento de alertas. O sistema segue a arquitetura em camadas e utiliza o padrão RESTful para exposição de endpoints CRUD.
+
+O objetivo principal é disponibilizar uma plataforma que permita:
+- Cadastro e autenticação de clientes e funcionários
+- Emissão de alertas conforme o perfil de investidor do cliente
+- Armazenamento persistente dessas informações em um banco de dados relacional
 
 ---
 ## Configuração e execução
@@ -116,6 +122,17 @@
 - Oracle JDBC (ojdbc8)
 
 - Lombok
+
+---
+## Diagrama de Arquitetura
+
+<img width="1127" height="526" alt="image" src="https://github.com/user-attachments/assets/254ce937-690d-41bb-8dcf-f1c837d18bc7" />
+
+---
+## Diagrama de Entidades
+
+<img width="477" height="370" alt="image" src="https://github.com/user-attachments/assets/02a2cd56-a62d-49f9-8e77-41015b634390" />
+
 
 
 
