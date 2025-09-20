@@ -90,6 +90,12 @@
 
 <img width="550" height="458" alt="image" src="https://github.com/user-attachments/assets/103f3459-1fb3-4956-bb2d-3880b8766de4" />
 
+
+### 6. Deletar alertas
+- **URL:** `DELETE http://localhost:8080/alertas/{id}`
+
+<img width="656" height="453" alt="image" src="https://github.com/user-attachments/assets/67c888ae-a364-4299-9886-75dd542b653f" />
+
 ---
 ## Tecnologias utilizadas
 
