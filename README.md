@@ -80,7 +80,7 @@ O objetivo principal é disponibilizar uma plataforma que permita:
 
 <img width="557" height="482" alt="image" src="https://github.com/user-attachments/assets/3c7b58d4-f708-453d-aaf7-4fb46abe5cf1" />
 
-- Também é possível listar alertas por perfil com: `GET http://localhost:8080/alertas/perfil/MODERADO` ou por email com: `GET http://localhost:8080/alertas/cliente/julia@email.com`
+- Também é possível listar alertas por perfil com: `GET http://localhost:8080/alertas/perfil/{perfil}` ou por email com: `GET http://localhost:8080/alertas/cliente/{email}`
 
 
 ### 6. Cadastro de Funcionários
